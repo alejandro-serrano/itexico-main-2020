@@ -1,8 +1,8 @@
 # iTexico \<main\> 2020
 This repository contains a hello world of Automation using Python, Pytest and Selenium Webdriver. This demo was presented in the iTexico \<main\> event last March 12, 2020.
 
-Find the slides of the presentation in the following link:
-- https://slides.com/alejandro-serrano/test-automation-symphony
+Find the slides of the presentation in the following location:
+* [Test Automation Symphony](https://slides.com/alejandro-serrano/test-automation-symphony)
 
 ## Getting started
 1.- Ensure that the latest version of Python is installed in your system.
