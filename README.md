@@ -45,3 +45,4 @@ C:\itexico-main-2020> C:\itexico-main-2020\e2e\Scripts\activate.bat
 ```
 
 ## Demo
+![](demo.gif)
